@@ -25,4 +25,4 @@ index of the data frame and time-series plots are then generated.
 
 # Response Time
 
-![Response Time](plots/repsonstime.png)
+![Response Time](plots/repsonsetime.png)
